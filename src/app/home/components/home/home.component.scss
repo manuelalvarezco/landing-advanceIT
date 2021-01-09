@@ -1,0 +1,235 @@
+    .main {
+        height: 625px;
+        background-position: center;
+        background-image: url(https://typs.com/wp-content/uploads/2020/05/Adelanto_n%C3%B3mina_typs.jpg) !important;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    
+    .main-subtitle {
+        font-size: 3em;
+        font-weight: bolder;
+    }
+    
+    .main-description {
+        font-size: 1.4em;
+        text-align: left;
+        font-weight: 500;
+    }
+    
+    .two {
+        margin-top: 2em;
+    }
+    
+    .box-section_two {
+        @media screen and(min-width: 767px) {
+            width: 48%;
+        }
+    }
+    
+    .et_pb_section_2 {
+        border-color: #ffffff;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    
+    @media only screen and (min-width: 981px) {
+        .et_pb_section {
+            padding: 3% 0;
+        }
+    }
+    
+    .et_pb_section {
+        position: relative;
+        background-color: #fff;
+    }
+    
+    @media (min-width: 981px) {
+        .et_pb_section {
+            padding: 4% 0;
+        }
+    }
+    
+    .et_pb_section,
+    .et_pb_slider .et_pb_slide {
+        background-position: center;
+        -webkit-background-size: 100%;
+        -webkit-background-size: cover;
+        -moz-background-size: 100%;
+        -moz-background-size: cover;
+        background-size: 100%;
+        background-size: cover;
+    }
+    
+    .et_pb_row_2.et_pb_row {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    
+    @media (min-width: 981px) {
+        .et_pb_row.et_pb_equal_columns,
+        .et_pb_row_inner.et_pb_equal_columns,
+        .et_pb_section.et_pb_equal_columns>.et_pb_row {
+            display: -webkit-box;
+            display: -moz-box;
+            display: -ms-flexbox;
+            display: -webkit-flex;
+            display: flex;
+            direction: ltr;
+        }
+    }
+    
+    .et_pb_row_2,
+    .et_pb_pagebuilder_layout.single.et_full_width_page #page-container .et_pb_row_2 {
+        max-width: 100%!important;
+        width: 100%;
+    }
+    
+    @media (min-width: 981px) {
+        .et_pb_row {
+            padding: 2% 0;
+        }
+    }
+    
+    @media (min-width: 981px) {
+        .et_pb_row.et_pb_equal_columns>.et_pb_column,
+        .et_pb_section.et_pb_equal_columns>.et_pb_row>.et_pb_column {
+            order: 1;
+        }
+    }
+    
+    @media (min-width: 981px) {
+        .et_pb_gutters1 .et_pb_column_1_2,
+        .et_pb_gutters1.et_pb_row .et_pb_column_1_2 {
+            width: 50%;
+        }
+    }
+    
+    @media (min-width: 981px) {
+        .et_pb_gutters1 .et_pb_column,
+        .et_pb_gutters1.et_pb_row .et_pb_column {
+            margin-right: 0;
+        }
+    }
+    
+    .et_pb_column_3 {
+        background-blend-mode: multiply;
+        background-image: url(https://typs.com/wp-content/uploads/2019/03/1-1080x608.png);
+        background-color: rgba(0, 0, 0, 0.31);
+        padding-top: 10%;
+        padding-right: 5%;
+        padding-bottom: 10%;
+        padding-left: 5%;
+    }
+    
+    .et_pb_css_mix_blend_mode_passthrough {
+        mix-blend-mode: unset!important;
+    }
+    
+    .et_pb_column {
+        float: left;
+        position: relative;
+        z-index: 9;
+        background-position: center;
+        background-size: cover;
+    }
+    
+    @media (min-width: 981px) {
+        .et_pb_gutters1 .et_pb_column_1_2 .et_pb_module,
+        .et_pb_gutters1.et_pb_row .et_pb_column_1_2 .et_pb_module {
+            margin-bottom: 0;
+        }
+    }
+    
+    @media (min-width: 981px) {
+        .et_pb_gutters3 .et_pb_column_1_2 .et_pb_module,
+        .et_pb_gutters3.et_pb_row .et_pb_column_1_2 .et_pb_module {
+            margin-bottom: 5.82%;
+        }
+    }
+    
+    .et_pb_text_2.et_pb_text {
+        color: #ffffff!important;
+    }
+    
+    .et_pb_text_2 {
+        font-family: 'Poppins', Helvetica, Arial, Lucida, sans-serif;
+        font-weight: 700;
+        font-size: 34px;
+        line-height: 1em;
+        text-shadow: 1px 1px 0.3em rgba(0, 0, 0, 0.4);
+    }
+    
+    .et_pb_text_align_left {
+        text-align: left;
+    }
+    
+    .et_pb_divider_1.et_pb_module {
+        margin-left: 0px!important;
+        margin-right: auto!important;
+    }
+    
+    .et_pb_divider_1 {
+        max-width: 50px;
+        height: 23px;
+    }
+    
+    .et_pb_divider {
+        position: relative;
+        margin: 0 0 30px 0;
+    }
+    
+    .et_pb_space {
+        box-sizing: content-box;
+        height: 23px;
+        border: none;
+    }
+    
+    .et_pb_divider_internal {
+        display: inline-block;
+        width: 100%;
+    }
+    
+    .et_pb_text_3.et_pb_text {
+        color: #ffffff!important;
+    }
+    
+    .et_pb_text_3 {
+        font-family: 'Poppins', Helvetica, Arial, Lucida, sans-serif;
+        font-weight: 300;
+        font-size: 18px;
+        line-height: 1em;
+        text-shadow: 0em 0em 0.3em rgba(0, 0, 0, 0.4);
+        margin-top: 30px!important;
+        margin-bottom: 50px!important;
+    }
+    
+    .et_pb_text>:last-child {
+        padding-bottom: 0;
+    }
+    
+    @media (min-width: 981px) {
+        .et_pb_gutters1 .et_pb_column_1_2 .et_pb_module,
+        .et_pb_gutters1.et_pb_row .et_pb_column_1_2 .et_pb_module {
+            margin-bottom: 0;
+        }
+    }
+    
+    @media (min-width: 981px) {
+        .et_pb_gutters3 .et_pb_column_1_2 .et_pb_module,
+        .et_pb_gutters3.et_pb_row .et_pb_column_1_2 .et_pb_module {
+            margin-bottom: 5.82%;
+        }
+    }
+    
+    .et_pb_button_module_wrapper.et_pb_button_alignment_left {
+        text-align: left;
+    }
+    
+    .et_pb_button_2_wrapper {
+        margin-top: 20px!important;
+    }
+    
+    .et_pb_text_inner {
+        position: relative;
+    }
