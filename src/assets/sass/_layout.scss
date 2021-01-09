@@ -26,6 +26,10 @@ mat-toolbar {
     flex-direction: column;
 }
 
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
 .align-items-center {
     align-items: center;
 }
@@ -36,4 +40,12 @@ mat-toolbar {
 
 .align-items-center {
     align-items: center;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-left {
+    text-align: left;
 }

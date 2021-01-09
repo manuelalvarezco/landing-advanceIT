@@ -4,6 +4,8 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatIconModule } from '@angular/material/icon';
 import { MatListModule } from '@angular/material/list';
+import {MatCardModule} from '@angular/material/card';
+import {MatInputModule} from '@angular/material/input';
 
 const material = [
   MatToolbarModule,
@@ -11,6 +13,8 @@ const material = [
   MatSidenavModule,
   MatIconModule,
   MatListModule,
+  MatCardModule,
+  MatInputModule
 ]
 
 @NgModule({
